@@ -1,7 +1,7 @@
 
 # Ruby with Cucumber Example
 
-This repository it's an example on how to test a Pokemon API using Ruby, Cucumber and Rspec.
+This repository it's an example on how to test a [Pokemon API](https://pokeapi.co/) using Ruby, Cucumber and Rspec.
 
   
 
